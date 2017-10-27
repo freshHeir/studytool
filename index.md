@@ -4,4 +4,4 @@ This website contains information about elements and compounds, diagrams and oth
 </br>
 Here is a list of contents. It will be updated as the site is built.
 
-[Diagrams](diagrams)
+[Diagrams](https://dood393.github.io/studytool/diagrams)
