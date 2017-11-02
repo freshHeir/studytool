@@ -10,3 +10,4 @@ https://images.duckduckgo.com/iur/?f=1&image_host=http%3A%2F%2Fslideplayer.com%2
 An Electron Dot diagram, ora Lewis Dot diagram, is almost perfect for someone in a rush. It is very simple. To design one, all you do is write the chemical symbol and surround it with a number of dots equal to the number of valence electrons.
 [Electron DOt Diagram]
 (http://4.bp.blogspot.com/-qX83xOeTjIE/UGpRxjN4g2I/AAAAAAAAAE4/DRj_J8Xj8VQ/s1600/electron+dot+diagrams+1.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
